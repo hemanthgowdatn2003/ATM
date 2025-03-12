@@ -50,8 +50,7 @@ Installation
 
 Clone the repository or download the source code:
 
-git clone https://github.com/yourusername/ATM21.git
-
+git clone(https://github.com/hemanthgowdatn2003/ATM)
 Open ATM21.sln in Visual Studio.
 
 Build and run the project.
